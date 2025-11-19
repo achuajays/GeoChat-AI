@@ -1,0 +1,7 @@
+{
+  "name": "GeoChat AI",
+  "description": "An interactive map-based chatbot powered by Gemini 2.5 Flash using Google Maps and Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
