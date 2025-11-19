@@ -1,5 +1,7 @@
 # 🌍 GeoChat AI
 
+![image.png](image.png)
+
 **GeoChat AI** is an advanced, interactive map-based chatbot that bridges the gap between conversational AI and real-time geospatial data. Powered by **Google Gemini 2.5 Flash**, it leverages Google Search and Google Maps Grounding to provide accurate, location-aware responses, real-time weather data, and navigation tools.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
